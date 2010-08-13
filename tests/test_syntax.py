@@ -74,7 +74,7 @@ class TestCase(unittest.TestCase):
 
         self.assertEqual(s, r)
 
-    def test_inline_content(self):
+    def test_inline_content2(self):
 
         s = self._p('''%:if 1 == 43: | Test content''')
         r = '''{% if 1 == 43: %}Test content{% endif %}'''
