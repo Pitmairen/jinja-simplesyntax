@@ -40,7 +40,7 @@ Example
 
 
 
-With line statements its also posible to use inline content
+With line statements its also possible to use inline content
 like this:
 
 ::
